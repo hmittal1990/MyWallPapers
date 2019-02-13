@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWallPapers</string>
+    <string name="check_internet">Please check your inter connections and try again</string>
+</resources>
